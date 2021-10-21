@@ -8,6 +8,14 @@ header {
     text-align: center;
 }
 
+header > h1 {
+    margin-bottom: 5px;
+}
+
+header > img {
+    margin-bottom: 10px;
+}
+
 section {
     background: white;
     border-radius: 10px;
