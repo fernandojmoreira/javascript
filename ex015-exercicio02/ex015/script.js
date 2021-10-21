@@ -19,9 +19,9 @@ function verificar() {
                 img.setAttribute('src', 'celular.png')
             } else if (idade < 22) {
                 img.setAttribute('src', 'acido.png')
-            } else if (idade < 28) {
+            } else if (idade < 25) {
                 img.setAttribute('src', 'cocaina.png')
-            } else if (idade < 35) {
+            } else if (idade < 33) {
                 img.setAttribute('src', 'maconha.png')
             } else if (idade < 45) {
                 img.setAttribute('src', 'alcool.png')
